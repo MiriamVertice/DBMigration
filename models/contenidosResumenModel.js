@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const contenidoResumenSchema = new mongoose.Schema({
     mysqlId: Number,
-    mysqlFk: String,
+    idContenidoMysql: String,
     herramienta: String,
     codigo: String,
     referencia: String,

@@ -7,7 +7,8 @@
     "migrar:accesos": "node scripts/accesos.js",
     "migrar:usuarios": "node scripts/usuarios.js",
     "migrar:categorias": "node scripts/categoriasCampus.js",
-    "migrar:contenido": "node scripts/contenido.js"
+    "migrar:contenido": "node scripts/contenido.js",
+    "migrar:contenidosResumen": "node scripts/contenidosResumen.js"
   
   },
   "keywords": [],
